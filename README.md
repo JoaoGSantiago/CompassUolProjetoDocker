@@ -81,7 +81,7 @@ Eficiência Operacional: Automação de tarefas de provisionamento, configuraç�
 
 ## Arquitetura
 
-![Arquitetura do Projeto](./imagens/Arquitetura.png)
+![Arquitetura do Projeto](./Arquitetura.png)
 
 ### Recursos Provisionados
 
@@ -96,15 +96,15 @@ Eficiência Operacional: Automação de tarefas de provisionamento, configuraç�
 
 Rotas(Como elas devem ficar após o apply do Terraform)
 
-![Arquitetura do Projeto 2](./imagens/Rotas.png)
+![Arquitetura do Projeto 2](./Rotas.png)
 
 Application Load Balancer (Como devem ficar após o apply do Terraform)
 
-![Arquitetura do Projeto 2](./imagens/ALB.png)
+![Arquitetura do Projeto 2](./ALB.png)
 
 # Arquitetura Detalhada
 
-![Arquitetura do Projeto 2](./imagens/Arquirtetura2.png)
+![Arquitetura do Projeto 2](./Arquirtetura2.png)
 
 ## Melhorias 
 
