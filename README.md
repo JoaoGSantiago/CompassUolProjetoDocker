@@ -47,7 +47,7 @@ Eficiência Operacional: Automação de tarefas de provisionamento, configuraç�
 
 1. Clone o repositório:
     ```sh
-    git clone https://github.com/JulioMourajr/Compass-PB-NOV2024-Docker
+    https://github.com/JoaoGSantiago/CompassUolProjetoDocker.git
     cd Compass-PB-NOV2024-Docker
     ```
 
